@@ -1,0 +1,4 @@
+[submodule "myfirstblog/public"]
+	path = myfirstblog/public
+	url = https://github.com/sundar19/sundar19.github.io.git
+	branch = main
